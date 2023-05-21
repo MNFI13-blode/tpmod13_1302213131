@@ -1,0 +1,15 @@
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\bin\Debug\net6.0\tpmod13_1302213131.exe
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\bin\Debug\net6.0\tpmod13_1302213131.deps.json
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\bin\Debug\net6.0\tpmod13_1302213131.runtimeconfig.json
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\bin\Debug\net6.0\tpmod13_1302213131.dll
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\bin\Debug\net6.0\tpmod13_1302213131.pdb
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\obj\Debug\net6.0\tpmod13_1302213131.csproj.AssemblyReference.cache
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\obj\Debug\net6.0\tpmod13_1302213131.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\obj\Debug\net6.0\tpmod13_1302213131.AssemblyInfoInputs.cache
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\obj\Debug\net6.0\tpmod13_1302213131.AssemblyInfo.cs
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\obj\Debug\net6.0\tpmod13_1302213131.csproj.CoreCompileInputs.cache
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\obj\Debug\net6.0\tpmod13_1302213131.dll
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\obj\Debug\net6.0\refint\tpmod13_1302213131.dll
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\obj\Debug\net6.0\tpmod13_1302213131.pdb
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\obj\Debug\net6.0\tpmod13_1302213131.genruntimeconfig.cache
+D:\GitHub\tpmodul13_1302213131\tpmod13_1302213131\tpmod13_1302213131\obj\Debug\net6.0\ref\tpmod13_1302213131.dll
